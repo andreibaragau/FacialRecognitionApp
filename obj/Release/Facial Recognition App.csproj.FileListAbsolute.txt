@@ -1,0 +1,61 @@
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\Facial Recognition App.exe.config
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\Facial Recognition App.exe
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\Facial Recognition App.pdb
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\BouncyCastle.Crypto.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\Emgu.CV.UI.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\Emgu.CV.UI.GL.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\Emgu.CV.World.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\itextsharp.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\OpenTK.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\OpenTK.GLControl.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\ZedGraph.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\Emgu.CV.UI.xml
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\Emgu.CV.UI.GL.xml
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\Emgu.CV.World.xml
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\itextsharp.xml
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\OpenTK.xml
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\OpenTK.GLControl.xml
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\ZedGraph.xml
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\de\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\es\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\fr\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\hu\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\it\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\ja\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\pt\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\ru\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\sk\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\sv\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\tr\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\zh-cn\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\zh-tw\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\obj\Release\Facial Recognition App.csprojAssemblyReference.cache
+D:\Dot Net Workspace\Facial Recognition App\obj\Release\Facial_Recognition_App.Form1.resources
+D:\Dot Net Workspace\Facial Recognition App\obj\Release\Facial_Recognition_App.Form3.resources
+D:\Dot Net Workspace\Facial Recognition App\obj\Release\Facial_Recognition_App.Properties.Resources.resources
+D:\Dot Net Workspace\Facial Recognition App\obj\Release\Facial Recognition App.csproj.GenerateResource.cache
+D:\Dot Net Workspace\Facial Recognition App\obj\Release\Facial Recognition App.csproj.CoreCompileInputs.cache
+D:\Dot Net Workspace\Facial Recognition App\obj\Release\Facial Recognition App.csproj.CopyComplete
+D:\Dot Net Workspace\Facial Recognition App\obj\Release\Facial Recognition App.exe
+D:\Dot Net Workspace\Facial Recognition App\obj\Release\Facial Recognition App.pdb
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\MySql.Data.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\Google.Protobuf.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\Zstandard.Net.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\Ubiety.Dns.Core.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\Renci.SshNet.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\System.Buffers.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\K4os.Compression.LZ4.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\K4os.Hash.xxHash.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\System.Memory.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Release\MySql.Data.xml
+D:\Dot Net Workspace\Facial Recognition App\obj\Release\Facial Recognition App.exe.config
+D:\Dot Net Workspace\Facial Recognition App\obj\Release\Facial_Recognition_App.ConvMatrix.resources
+D:\Dot Net Workspace\Facial Recognition App\obj\Release\Facial_Recognition_App.Form4.resources
+D:\Dot Net Workspace\Facial Recognition App\obj\Release\Facial_Recognition_App.ConvolutionMatrix.resources
+D:\Dot Net Workspace\Facial Recognition App\obj\Release\Facial_Recognition_App.FormCalendar.resources
+D:\Dot Net Workspace\Facial Recognition App\obj\Release\Facial_Recognition_App.FormEvent.resources
+D:\Dot Net Workspace\Facial Recognition App\obj\Release\Facial_Recognition_App.FormIstoric.resources
+D:\Dot Net Workspace\Facial Recognition App\obj\Release\Facial_Recognition_App.UserControlBlank.resources
+D:\Dot Net Workspace\Facial Recognition App\obj\Release\Facial_Recognition_App.UserControlDays.resources

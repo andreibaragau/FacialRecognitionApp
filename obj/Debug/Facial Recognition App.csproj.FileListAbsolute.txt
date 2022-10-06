@@ -1,0 +1,61 @@
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\Facial Recognition App.exe.config
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\Facial Recognition App.exe
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\Facial Recognition App.pdb
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\Emgu.CV.UI.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\Emgu.CV.UI.GL.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\Emgu.CV.World.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\OpenTK.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\OpenTK.GLControl.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\ZedGraph.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\Emgu.CV.UI.xml
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\Emgu.CV.World.xml
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\OpenTK.xml
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\OpenTK.GLControl.xml
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\ZedGraph.xml
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\de\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\es\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\fr\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\hu\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\it\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\ja\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\pt\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\ru\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\sk\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\sv\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\tr\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Dot Net Workspace\Facial Recognition App\obj\Debug\Facial Recognition App.csprojAssemblyReference.cache
+D:\Dot Net Workspace\Facial Recognition App\obj\Debug\Facial_Recognition_App.Form1.resources
+D:\Dot Net Workspace\Facial Recognition App\obj\Debug\Facial_Recognition_App.Properties.Resources.resources
+D:\Dot Net Workspace\Facial Recognition App\obj\Debug\Facial Recognition App.csproj.GenerateResource.cache
+D:\Dot Net Workspace\Facial Recognition App\obj\Debug\Facial Recognition App.csproj.CoreCompileInputs.cache
+D:\Dot Net Workspace\Facial Recognition App\obj\Debug\Facial Recognition App.csproj.CopyComplete
+D:\Dot Net Workspace\Facial Recognition App\obj\Debug\Facial Recognition App.exe
+D:\Dot Net Workspace\Facial Recognition App\obj\Debug\Facial Recognition App.pdb
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\BouncyCastle.Crypto.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\itextsharp.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\itextsharp.xml
+D:\Dot Net Workspace\Facial Recognition App\obj\Debug\Facial_Recognition_App.Form3.resources
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\MySql.Data.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\Google.Protobuf.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\Zstandard.Net.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\Ubiety.Dns.Core.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\Renci.SshNet.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\System.Buffers.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\K4os.Compression.LZ4.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\K4os.Hash.xxHash.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\System.Memory.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dot Net Workspace\Facial Recognition App\bin\Debug\MySql.Data.xml
+D:\Dot Net Workspace\Facial Recognition App\obj\Debug\Facial Recognition App.exe.config
+D:\Dot Net Workspace\Facial Recognition App\obj\Debug\Facial_Recognition_App.Form4.resources
+D:\Dot Net Workspace\Facial Recognition App\obj\Debug\Facial_Recognition_App.ConvMatrix.resources
+D:\Dot Net Workspace\Facial Recognition App\obj\Debug\Facial_Recognition_App.ConvolutionMatrix.resources
+D:\Dot Net Workspace\Facial Recognition App\obj\Debug\Facial_Recognition_App.FormIstoric.resources
+D:\Dot Net Workspace\Facial Recognition App\obj\Debug\Facial_Recognition_App.FormCalendar.resources
+D:\Dot Net Workspace\Facial Recognition App\obj\Debug\Facial_Recognition_App.UserControlBlank.resources
+D:\Dot Net Workspace\Facial Recognition App\obj\Debug\Facial_Recognition_App.UserControlDays.resources
+D:\Dot Net Workspace\Facial Recognition App\obj\Debug\Facial_Recognition_App.FormEvent.resources
